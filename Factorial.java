@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 
 
-// Factorial of the integer
+// Factorial of integer
 // This class contains a method to calculate the factorial of a given number
 // and write the result to a file.
 public class Factorial {
